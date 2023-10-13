@@ -8,7 +8,7 @@ end
 
 def decode_word(word)
   decoded_letters = word.split.map { |letter| decode_char(letter) }
-  decoded_letters.join('')
+  decoded_letters.join
 end
 
 def decode_sentence(sentence)
