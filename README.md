@@ -1,7 +1,4 @@
 # MorseCodeRuby
-This repo is about solving decoding Morse code algorithm challenge in Ruby
-
-# MorseCodeRuby
 
 <a name="readme-top"></a>
 
